@@ -3,6 +3,10 @@
 
 This repository contains the final report and resources for an Arduino-based **Fingerprint Scanner Box** project, designed and fabricated at [Carnegie Mellon University](https://www.cmu.edu)'s [TechSpark](https://engineering.cmu.edu/techspark/index.html) makerspace. The total cost of manufacturing the prototype was \$ 32.81 from a total allocated budget of \$ 50.00.
 
+<figure>
+    <img src="scanner_box.png">
+</figure>
+
 ## 📦 Project Overview
 
 The Fingerprint Scanner Box is a secure enclosure featuring:
@@ -26,6 +30,8 @@ The Fingerprint Scanner Box is a secure enclosure featuring:
 For detailed documentation including bill of materials, technical drawings, assembly steps, and Arduino code, refer to the final report:
 
 👉 [Final Project.pdf](./Final%20Project.pdf)
+
+>Sensitive parts have been removed from the source code to avoid any potential security breaches
 
 ## 🧠 Designer
 
